@@ -1,2 +1,1 @@
 # advisory-test
-boop
